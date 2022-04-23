@@ -1,0 +1,30 @@
+.header_link{
+    display: flex;
+    justify-content: flex-end;
+    background-color:black;
+
+
+
+
+}
+.header_link_data{
+    padding:0 10px;
+    font-size:20px;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+  
+    
+
+}
+.header_link_data > a {
+    color: rgba(255, 255, 255, 0.805);
+    overflow: hidden;
+    text-decoration: none;
+    justify-content: center;
+    cursor: pointer;
+    align-items: center;
+    border-right: 1px solid rgba(255, 255, 255, 0.8);
+  
+   
+}
