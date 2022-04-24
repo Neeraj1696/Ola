@@ -10,5 +10,6 @@
 }
 .navbar_link{
    display:flex;
+   justify-content:flex-end;
   
 }
