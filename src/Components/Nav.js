@@ -3,7 +3,7 @@ import "./Nav.css";
 
 function Nav() {
   return (
-    <>
+    <div className="nav">
       <div className="navbar-left">
         <a href="">
           <img
@@ -21,7 +21,7 @@ function Nav() {
           <button>Book Now</button>
         </a>
       </div>
-    </>
+    </div>
   );
 }
 
